@@ -1,0 +1,230 @@
+.title{
+	text-transform: uppercase;
+font-size: 30px;
+padding-top: 50px;
+padding-left: 230px;
+color:#ffffff;
+font-family: "Myriad Pro Regular";
+
+}
+.title-2{
+	text-transform: uppercase;
+	font-family: "Myriad Pro Regular";
+	margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #ffffff;
+    padding-left: 500px;
+    padding-top: 60px;
+
+}
+
+.title-cart{
+	color: #ffffff;
+	font-size: 18px;
+}
+.title-text{
+	text-transform: uppercase;
+font-size: 30px;
+padding-top: 50px;
+padding-left: -20px;
+font-family: "Myriad Pro Regular";
+}
+
+
+.title-projects{
+	text-transform: uppercase;            
+	font-family: "Myriad Pro Regular";
+	padding-top: 100px;
+
+}
+
+.title-car-4{
+	font-family: "Myriad Pro Regular";
+	font-size: 24px
+
+
+
+}
+.terle-car{
+	font-family: "Myriad Pro Regular";
+	padding-top: 30px;
+	font-size: 24px;
+}
+.title-ur{
+	font-family: "Myriad Pro Regular";          /*нижний текст для карточки */
+	font-size: 18px;
+	margin-top: -40px;
+	padding-left: 30px;
+}
+.title-business{
+color: #ffffff;
+font-family: 'Myriad Pro Regular';
+font-size: 30px;
+padding-top: 140px;
+text-transform: uppercase;
+
+}
+.subtitle-2{
+	font-family: "Myriad Pro Regular";  
+	color: #ffffff;
+    margin-top: 12px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 14px;
+    padding-left: 200px;
+    padding-right: 200px;
+	
+
+}
+.subtitle{
+	font-size: 15px;
+	padding-top: 220px;
+	padding-left:50px; 
+	padding-right:150px;
+	color:#ffffff; 
+	font-family: "Myriad Pro Regular";
+}
+
+button#discover{
+	border: none;
+	background-color: transparent;
+	padding: 3px 10px;
+	color: #ffffff;
+	border: 2px solid #ffffff;
+
+}
+.button-dis{
+	padding-top: 400px;
+
+}
+.img-clic{
+	padding-top: 130px;
+	padding-left: 550px;
+}
+
+
+
+
+
+
+
+@media(min-width:81px )and (max-width: 600px){
+	.wrapper,.sidedar,.right-col,.products-list>li>img{
+		width: 100px;
+	}
+	.title{
+	text-transform: uppercase;
+font-size: 30px;
+padding-top: 50px;
+padding-left: 230px;
+color:#ffffff;
+font-family: "Myriad Pro Regular";
+
+}
+.title-2{
+	text-transform: uppercase;
+	font-family: "Myriad Pro Regular";
+	margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #ffffff;
+    padding-left: 500px;
+    padding-top: 60px;
+
+}
+
+.title-cart{
+	color: #ffffff;
+	font-size: 18px;
+}
+.title-text{
+	text-transform: uppercase;
+font-size: 30px;
+padding-top: 50px;
+padding-left: -20px;
+font-family: "Myriad Pro Regular";
+}
+
+
+.title-projects{
+	text-transform: uppercase;            
+	font-family: "Myriad Pro Regular";
+	padding-top: 100px;
+
+}
+
+.title-car-4{
+	font-family: "Myriad Pro Regular";
+	font-size: 24px
+
+
+
+}
+.terle-car{
+	font-family: "Myriad Pro Regular";
+	padding-top: 30px;
+	font-size: 24px;
+}
+.title-ur{
+	font-family: "Myriad Pro Regular";          /*нижний текст для карточки */
+	font-size: 18px;
+	margin-top: -40px;
+	padding-left: 30px;
+}
+.title-business{
+color: #ffffff;
+font-family: 'Myriad Pro Regular';
+font-size: 30px;
+padding-top: 140px;
+text-transform: uppercase;
+
+}
+.subtitle-2{
+	font-family: "Myriad Pro Regular";  
+	color: #ffffff;
+    margin-top: 12px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 14px;
+    padding-left: 200px;
+    padding-right: 200px;
+	
+
+}
+.subtitle{
+	font-size: 15px;
+	padding-top: 220px;
+	padding-left:50px; 
+	padding-right:150px;
+	color:#ffffff; 
+	font-family: "Myriad Pro Regular";
+}
+
+button#discover{
+	border: none;
+	background-color: transparent;
+	padding: 3px 10px;
+	color: #ffffff;
+	border: 2px solid #ffffff;
+
+}
+.button-dis{
+	padding-top: 400px;
+
+}
+.img-clic{
+	padding-top: 130px;
+	padding-left: 550px;
+}
+
+
+.img-clic a:hover{
+color: red;
+background-color: #D6D1D0;
+}
+-----------------------------------------------

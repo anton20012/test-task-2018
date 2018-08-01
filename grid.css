@@ -1,0 +1,16 @@
+.content-info{
+    width: 70%;
+     /*background-color: red; */
+}
+.content-text{
+	    width: 30%;
+    /*background-color: green;*/
+
+}
+.content-fluid{
+	max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+

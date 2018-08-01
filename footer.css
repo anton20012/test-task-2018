@@ -1,0 +1,33 @@
+footer{
+	padding-top: 20px;
+}
+.title-fut{
+	font-family: 'Myriad Pro Regular';
+	font-size: 10px;
+	color: #9197a1;
+}
+.title-fut-2{
+font-family: 'Myriad Pro Regular';
+	font-size: 12px;
+}  
+
+
+-------------------------------------------------------------------------------
+@media(min-width:81px )and (max-width: 600px){
+	.wrapper,.sidedar,.right-col,.products-list>li>img{
+		width: 100px;
+	}
+	footer{
+	padding-top: 20px;
+}
+.title-fut{
+	font-family: 'Myriad Pro Regular';
+	font-size: 10px;
+	color: #9197a1;
+}
+.title-fut-2{
+font-family: 'Myriad Pro Regular';
+	font-size: 12px;
+}  
+
+	}

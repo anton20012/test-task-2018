@@ -1,0 +1,311 @@
+
+.menu ul li{
+
+	padding: 18px;
+	padding-top: -30px;
+	font-family: "Myriad Pro Regular";
+}
+.menu ul li {
+display: inline-block;
+}
+.menu ul>li:hover{
+	background-color: #D6D1D0;
+}
+.menu ul{
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.menu ul ul {
+
+display: none;
+position: absolute;
+background-color: #4A4745;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+}
+.menu ul  a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu li:hover ul{
+	display: block;
+}
+.menu li:hover li{
+	display: block;
+}
+
+.navigetion{
+	
+}
+header{
+	background:url(img/img-pfoto.jpg) no-repeat center top /cover;
+	height: 800px; 
+
+}
+
+
+
+
+
+.icon-contact{
+	padding-top: 10px;
+
+}
+.phone_namber{
+padding-top: 10px;
+}
+.language{
+	padding-top: 10px;
+}
+
+.business{
+	margin-top: 80px;
+
+background:url(img/bildex1.jpg) no-repeat center top /cover;
+height: 700px; 
+    
+}
+
+
+.menu ul li{
+
+	padding: 18px;
+	padding-top: -30px;
+	font-family: "Myriad Pro Regular";
+}
+.menu ul li {
+display: inline-block;
+}
+.menu ul>li:hover{
+	background-color: #D6D1D0;
+}
+.menu ul{
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.menu ul ul {
+
+display: none;
+position: absolute;
+background-color: #4A4745;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+}
+.menu ul  a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu li:hover ul{
+	display: block;
+}
+.menu li:hover li{
+	display: block;
+}
+
+.navigetion{
+	
+}
+header{
+	background:url(img/img-pfoto.jpg) no-repeat center top /cover;
+	height: 800px; 
+
+}
+
+
+
+
+#discover:hover{
+	color: #014db7;
+	background-color: #aab8ef;
+}
+.icon-contact{
+	padding-top: 10px;
+
+}
+.phone_namber{
+padding-top: 10px;
+}
+.language{
+	padding-top: 10px;
+}
+
+.business{
+	margin-top: 80px;
+
+background:url(img/bildex1.jpg) no-repeat center top /cover;
+height: 700px; 
+    
+}
+
+
+---------------------------------------------------------------------------------------
+@media(min-width:90px )and (max-width: 600px){
+	.wrapper,.sidedar,.right-col,.products-list>li>img{
+		width: 100px;
+	}
+
+
+
+.menu ul li{
+
+	padding: 18px;
+	padding-top: -30px;
+	font-family: "Myriad Pro Regular";
+}
+.menu ul li {
+display: inline-block;
+}
+.menu ul>li:hover{
+	background-color: #D6D1D0;
+}
+.menu ul{
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.menu ul ul {
+
+display: none;
+position: absolute;
+background-color: #4A4745;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+}
+.menu ul  a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu li:hover ul{
+	display: block;
+}
+.menu li:hover li{
+	display: block;
+}
+
+.navigetion{
+	
+}
+header{
+	background:url(img/img-pfoto.jpg) no-repeat center top /cover;
+	height: 800px; 
+
+}
+
+
+
+
+
+.icon-contact{
+	padding-top: 10px;
+
+}
+.phone_namber{
+padding-top: 10px;
+}
+.language{
+	padding-top: 10px;
+}
+
+.business{
+	margin-top: 80px;
+
+background:url(img/bildex1.jpg) no-repeat center top /cover;
+height: 700px; 
+    
+}
+
+
+.menu ul li{
+
+	padding: 18px;
+	padding-top: -30px;
+	font-family: "Myriad Pro Regular";
+}
+.menu ul li {
+display: inline-block;
+}
+.menu ul>li:hover{
+	background-color: #D6D1D0;
+}
+.menu ul{
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.menu ul ul {
+
+display: none;
+position: absolute;
+background-color: #4A4745;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+}
+.menu ul  a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu li:hover ul{
+	display: block;
+}
+.menu li:hover li{
+	display: block;
+}
+
+.navigetion{
+	
+}
+header{
+	background:url(img/img-pfoto.jpg) no-repeat center top /cover;
+	height: 800px; 
+
+}
+
+
+
+
+
+.icon-contact{
+	padding-top: 10px;
+
+}
+.phone_namber{
+padding-top: 10px;
+}
+.language{
+	padding-top: 10px;
+}
+
+.business{
+	margin-top: 80px;
+
+background:url(img/bildex1.jpg) no-repeat center top /cover;
+height: 700px; 
+    
+}
+
+
+
+
+	}
